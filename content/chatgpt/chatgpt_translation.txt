@@ -1,0 +1,55 @@
+ChatGPT...
+
+...or how my friendly AI pair programming dude helped me to tackle programming questions and writing documentation,
+which is one of the most preferred activities to waste time as a software developer. Furthermore I will show you a hell
+lot of examples how it help polish my english to not immediately sound like a german, how smart it is in tackling
+problems, creating software pieces, and we prove ChatGPT is aware about humor. In the following sections I will
+describe the problem, the prompt, the chat and solution we achieved.
+
+-->
+
+ChatGPT...
+...or how my friendly AI pair-programming dude helped me tackle programming questions and write documentation —
+which, let’s be honest, is one of the most time-honored ways to procrastinate as a software developer.
+
+Beyond that, I’ll show you a whole lot of examples of how ChatGPT helped me:
+- Polish my English so I don’t immediately sound like a German tourist asking for the train station
+- Solve tricky problems without flipping 27 StackOverflow tabs
+- Generate actual code snippets and explain why they work
+
+And yes — prove that ChatGPT understands humor (or at least does a convincing job pretending)
+In the following sections, I’ll break things down into:
+- The problem I was facing
+- The prompt I gave
+- The conversation we had
+- And the final solution we achieved together
+
+Let’s call it collaborative coding — with someone who doesn’t need coffee breaks.
+
+
+
+
+
+maps.Params{"article":maps.Params{"headinganchor":false, "license":maps.Params{"default":"Licensed under CC BY-NC-SA 4.0", "enabled":true}, "math":false, "readingtime":true, "toc":true}, "colorscheme":maps.Params{"default":"auto", "toggle":true},
+
+
+
+
+
+"comments":maps.Params{"beaudar":maps.Params{"issueterm":"pathname", "label":interface {}(nil), "repo":interface {}(nil), "theme":interface {}(nil)}, "cactus":maps.Params{"defaulthomeserverurl":"https://matrix.cactus.chat:8448", "servername":"cactus.chat", "sitename":""},
+
+
+"cusdis":maps.Params{"host":"", "id":""},
+"disqusjs":maps.Params{"admin":"", "adminlabel":"", "apikey":"", "apiurl":"", "shortname":""}, "enabled":true,
+"giscus":maps.Params{"category":"", "categoryid":"", "darktheme":"", "emitmetadata":0, "inputposition":interface {}(nil),
+
+
+maps.Params{"article":maps.Params{"headinganchor":false, "license":maps.Params{"default":"Licensed under CC BY-NC-SA 4.0", "enabled":true}, "math":false, "readingtime":true, "toc":true}, "colorscheme":maps.Params{"default":"auto", "toggle":true}, "comments":maps.Params{"beaudar":maps.Params{"issueterm":"pathname", "label":interface {}(nil), "repo":interface {}(nil), "theme":interface {}(nil)}, "cactus":maps.Params{"defaulthomeserverurl":"https://matrix.cactus.chat:8448", "servername":"cactus.chat", "sitename":""},
+
+ "cusdis":maps.Params{"appid":"78bccc49-d0c2-4175-a53d-88a7616ddd06", "host":"", "id":""},
+ "disqusjs":maps.Params{"admin":"", "adminlabel":"", "apikey":"", "apiurl":"", "shortname":""}, "enabled":true, "giscus":maps.Params{"category":"", "categoryid":"", "darktheme":"", "emitmetadata":0, "inputposition":interface {}(nil), "lang":interface {}(nil), "lighttheme":"", "mapping":"", "reactionsenabled":1, "repo":"", "repoid":"", "strict":interface {}(nil)}, "gitalk":maps.Params{"admin":"", "clientid":"", "clientsecret":"", "owner":"", "repo":""}, "provider":"disqus", "remark42":maps.Params{"host":"", "locale":"", "site":""}, "twikoo":maps.Params{"envid":"", "lang":"", "path":"", "region":""}, "utterances":maps.Params{"issueterm":"pathname", "label":"", "repo":""}, "vssue":maps.Params{"autocreateissue":false, "clientid":"", "clientsecret":"", "owner":"", "platform":"", "repo":""}, "waline":maps.Params{"avatar":"", "emoji":[]interface {}{"https://cdn.jsdelivr.net/gh/walinejs/emojis/weibo"}, "lang":"", "locale":maps.Params{"admin":"Admin", "placeholder":interface {}(nil)}, "placeholder":"", "requiredmeta":[]interface {}{"name", "email", "url"}, "serverurl":"", "visitor":""}}, "dateformat":maps.Params{"lastupdated":"May, 2025", "published":"not yet"}, "defaultimage":maps.Params{"opengraph":maps.Params{"enabled":false, "local":false, "src":""}}, "favicon":"/favicon.png", "featuredimagefield":"image", "footer":maps.Params{"customtext":"", "since":2020}, "imageprocessing":maps.Params{"content":maps.Params{"enabled":true}, "cover":maps.Params{"enabled":true}}, "mainsections":[]interface {}{"post"}, "opengraph":maps.Params{"twitter":maps.Params{"card":"summary_large_image", "site":""}}, "rssfullcontent":true, "sidebar":maps.Params{"avatar":maps.Params{"enabled":true, "local":true, "src":"img/avatar.png"}, "compact":false, "emoji":"🍥", "subtitle":"Behind-the-scenes journey into the development of both hardware and software for a modern pedal board."}, "widgets":maps.Params{"homepage":[]interface {}{map[string]interface {}{}, map[string]interface {}{"params":map[string]interface {}{"limit":5}}, map[string]interface {}{"params":map[string]interface {}{"limit":10}}, map[string]interface {}{"params":map[string]interface {}{"limit":10}, "type":"tag-cloud"}}, "page":[]interface {}{map[string]interface {}{"type":"toc"}}}}
+
+
+
+ "cusdis":maps.Params{"appid":"78bccc49-d0c2-4175-a53d-88a7616ddd06", "host":"", "id":""},
+ "disqusjs":maps.Params{"admin":"", "adminlabel":"", "apikey":"", "apiurl":"", "shortname":""}, "enabled":true,
