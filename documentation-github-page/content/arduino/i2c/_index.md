@@ -15,7 +15,7 @@ to communicate using just two wires — one for data (SDA) and one for clock (SC
 (now NXP)
 "
 toc: true
-tags: ["hardware", "arduino"]
+tags: ["hardware", "Arduino"]
 categories: ["arduino"]
 image: "I2C.jpeg"
 imageSuppress: "Page"

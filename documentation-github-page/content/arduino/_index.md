@@ -10,7 +10,7 @@ menu:
         params:
             icon: cpu
 toc: true
-tags: ["hardware", "arduino"]
+tags: ["hardware", "Arduino"]
 categories: ["arduino"]
 image: "ARDUINO.jpg"
 imageSuppress: "Page"

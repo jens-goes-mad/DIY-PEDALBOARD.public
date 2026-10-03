@@ -13,7 +13,7 @@ An AVR processor is a type of microcontroller—a tiny computer on a single chip
 embedded systems, and hobbyist projects like those involving Arduino boards.
 "
 toc: true
-tags: ["hardware", "arduino", "AVR"]
+tags: ["hardware", "Arduino", "AVR"]
 categories: ["arduino"]
 image: "AVR.jpg"
 imageSuppress: "Page"

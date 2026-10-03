@@ -10,7 +10,7 @@ menu:
 layout: "article"
 toc: true
 draft: false
-tags: ["hardware", "arduino", "i2c", "components"]
+tags: ["hardware", "Arduino", "I2C", "components"]
 categories: ["arduino", "components"]
 image: Car-Components.jpg
 imageSuppress: "Page"
